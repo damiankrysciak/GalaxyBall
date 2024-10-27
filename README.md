@@ -8,6 +8,6 @@ Under Assets/Scripts are all self-written C#-Scripts.
 
 Gameplay footage of first level:
 
-https://www.youtube.com/watch?v=KUAdCDmDiQ4
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/KUAdCDmDiQ4/0.jpg)](https://www.youtube.com/watch?v=KUAdCDmDiQ4)
 
 (Based on the Unity tutorial "RollABall")
